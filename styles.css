@@ -5,6 +5,7 @@
   border-bottom-color:rgb(255, 255, 0);
   height: 150px;
   background-color: yellow;
+  border-left:50px solid rgba(0, 0, 0, 0);
   clip-path: polygon(
     50% 0%,
     61% 35%,
